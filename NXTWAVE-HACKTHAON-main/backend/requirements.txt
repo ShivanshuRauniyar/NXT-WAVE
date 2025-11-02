@@ -10,3 +10,4 @@ flask-cors
 deep-translator
 openai
 razorpay
+
